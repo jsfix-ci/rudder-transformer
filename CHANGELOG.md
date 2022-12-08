@@ -5,6 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.9.0](https://github.com/rudderlabs/rudder-transformer/compare/v1.8.0...v1.9.0) (2022-12-08)
+
+
+### Features
+
+* onboard ga4 hybrid mode ([#1617](https://github.com/rudderlabs/rudder-transformer/issues/1617)) ([0986b76](https://github.com/rudderlabs/rudder-transformer/commit/0986b769d2e2d84314724a16c322cd05d9fa8bd4))
+
+
+### Miscellaneous
+
+* **ci:** add master build action ([#1643](https://github.com/rudderlabs/rudder-transformer/issues/1643)) ([62ef556](https://github.com/rudderlabs/rudder-transformer/commit/62ef556c03f085ba26529fa77bbeecc6c3ac1010))
+* optimize performance using new json template features ([#1635](https://github.com/rudderlabs/rudder-transformer/issues/1635)) ([23ce982](https://github.com/rudderlabs/rudder-transformer/commit/23ce982f2756c62d009250aba3cafc87f4b63b67))
+* reorganize files to follow popular convention ([#1620](https://github.com/rudderlabs/rudder-transformer/issues/1620)) ([63d75bb](https://github.com/rudderlabs/rudder-transformer/commit/63d75bbe2aea1ae151661b479c331b0a9b771650))
+
 ## [1.8.0](https://github.com/rudderlabs/rudder-transformer/compare/v1.7.0...v1.8.0) (2022-12-06)
 
 
