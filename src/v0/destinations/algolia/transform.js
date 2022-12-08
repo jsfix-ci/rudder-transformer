@@ -70,7 +70,7 @@ const trackResponseBuilder = (message, { Config }) => {
   }
   if (payload.filters && payload.objectIDs) {
     throw new CustomError(
-      "event can’t have both objectIds and filters at the same time.",
+      "event can't have both objectIds and filters at the same time.",
       400
     );
   }
